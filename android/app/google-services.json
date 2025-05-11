@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "357031755557",
+    "project_id": "bitebank-9ec76",
+    "storage_bucket": "bitebank-9ec76.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357031755557:android:96310fbe7d8ece74e724cc",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_bitebank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgAVTNEjq8h4HczgJ07g2_CptHGAsVXA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
